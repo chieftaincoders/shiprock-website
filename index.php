@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+
+    <?php require_once("navbar.php")?>
+    <?php require_once("lib/head-utils.php")?>
 </head>
 <body>
+
+
 
 </body>
 </html>

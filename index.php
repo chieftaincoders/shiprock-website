@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<<<<<<< HEAD
-<meta charset="UTF-8">
-<title>title</title>
-<head>
-    
+
     
 =======
 <head>

@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-<title>Title</title>
+<title>Shiprock High School</title>
 
 <!-- Jquery -->
 <script src="https://code.jquery.com/jquery-2.2.4.js"

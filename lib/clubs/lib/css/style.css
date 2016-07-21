@@ -42,3 +42,18 @@
 .rotcbackground{
     background-color: #12212f;
 }
+
+/*BAND PAGE*/
+.band{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.bandp{
+    font-size: 17px;
+    margin-bottom: 60px;
+}
+p{
+    font-size: 17px;
+    margin-bottom: 40px
+}

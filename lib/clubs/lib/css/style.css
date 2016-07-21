@@ -1,0 +1,44 @@
+
+/*ROTC PAGE*/
+.sgt{
+    border: solid black 10px;
+    margin-top: 55px;
+    margin-left: 115px;
+}
+.jrotc{
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 40px;
+}
+.jrotc1{
+    text-align: center;
+    margin-bottom: 75px;
+    font-size: 17px;
+}
+.rotcp{
+    margin-bottom: 5px;
+    font-size: 17px;
+    color: #ffffff;
+}
+.rotcp1{
+    margin-bottom: 50px;
+    font-size: 17px;
+    color: #ffffff;
+}
+.rotcp2{
+    font-size: 17px;
+    color: #ffffff;
+    font-family: 'Kaushan Script', cursive;
+}
+.rotch3{
+    color: #ffffff;
+    padding-top: 40px;
+    margin-bottom: 20px;
+}
+.rotcmodule{
+    margin-top: 25px;
+    background-color: white;
+}
+.rotcbackground{
+    background-color: #12212f;
+}

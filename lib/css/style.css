@@ -17,13 +17,13 @@ body {
     position: relative;
     top: 0;
     left: 0;
-    background-color: #d9edfd,
+    background-color: #d9edfd;
     //transform: translate3d(0,0,0);
 }
 
 .light-bg1{
     text-align: center;
-    font-family: GROBOLD.ttf;
+    font-family: 'GROBOLD.ttf';
 }
 
 .logo {
@@ -33,20 +33,26 @@ body {
     position: absolute;
     z-index: 2;
     width: 100%;
+}
 
 img {
     display: block;
     margin: 0 auto;
     max-width: 100%;
-@media (max-width: 700px) {
+}
+
+ {
+@media (max-width: 700px)
     max-width: 90%;
 }
-}
-}
+
 
 nav {
     background-color: #12212f;
     overflow: hidden;
+    padding: 10px 20px;
+}
+
 ul {
     list-style: none;
     max-width: 900px;
@@ -55,13 +61,13 @@ ul {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
 li {
-@media (max-width: 700px) {
+@media (max-width: 700px)
     width: 50%;
     text-align: center;
 }
-padding: 10px 20px;
-}
+
 a {
     /* Tilmelding: */
     font-weight: 700;
@@ -70,30 +76,31 @@ a {
     color: #fff;
     text-decoration: none;
 }
-}
+
 
 .dark-bg {
     background-color: #12212f;
     padding: 50px 50px;
+}
+
 img {
     display: block;
     margin: 0 auto;
     width: auto;
     max-width: 100%;
 }
-}
+
 
 .light-bg {
     background-color: #fff;
     padding: 50px 50px;
+}
 
-]
 img {
     display: block;
     margin: 0 auto;
     width: auto;
     max-width: 100%;
-}
 }
 
 .extra {
@@ -103,4 +110,46 @@ img {
     color: #12202F;
     letter-spacing: 0px;
     line-height: 27px;
+}
+
+a:hover, a:focus {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.navbar-brand>img {
+    display: block;
+    height: 75px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand {
+    float: left;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 20px;
+    height: 50px;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+}
+
+li a {
+    color: white;
+    font-size: 1.2em;
+    margin-top: 15px;
+    font-family: 'Frank Ruhl Libre', sans-serif;
+}
+
+.animated {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.navbar-right {
+    color: white;
 }

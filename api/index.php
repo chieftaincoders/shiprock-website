@@ -1,7 +1,6 @@
 <?php
 require 'twitteroauth/autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
-
 // Use the data from http://dev.twitter.com/apps to fill out this info
 // notice the slight name difference in the last two items)
 
@@ -14,26 +13,19 @@ $connection = new TwitterOAuth(
 
 $twitter_path = 'search/tweets';
 $tweets = $connection->get($twitter_path, ["q" => "@SHSChieftains"]);
-var_dump($tweets);
+header("Content-type: application/json");
 
-/*
-if ($http_code === 200) { // if everything's good
-	$response = strip_tags($connection->response['response']);
+$simple_statuses = [];
+$simple_status;
 
-  header("Content-type: application/json");
+for ($i = 0; $i < count($tweets->statuses); $i ++) {
 
-	if ($_GET['callback']) { // if we ask for a jsonp callback function
-		echo $_GET['callback'],'(', $response,');';
-	} else {
-		echo $response;
-	}
-} else {
-  header("Content-type: application/json");
-  var_dump($connection);
+  $simple_status = new stdClass();
+  $simple_status->text = $tweets->statuses[$i]->text;
+  $simple_status->username = $tweets->statuses[$i]->user->screen_name;
+  $simple_status->profile_pic = $tweets->statuses[$i]->user->profile_image_url;
 
-	//echo "Error ID: ",$http_code, "<br>\n";
-	//echo "Error: ",$connection->response["error"], "<br>\n";
+  array_push($simple_statuses, $simple_status);
 }
-*/
-
+echo json_encode($simple_statuses);
 // You may have to download and copy http://curl.haxx.se/ca/cacert.pem

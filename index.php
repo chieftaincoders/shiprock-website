@@ -38,6 +38,9 @@
     <p class="extra"></p>
 </div>
 
+<div id="tweets">
+</div>
+
 
 <script>
     WebFontConfig = {
@@ -53,7 +56,8 @@
     })();
 </script>
 
-<script src="lib/js/tweet.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="lib/js/tweets.js"></script>
 
 </body>
 </html>

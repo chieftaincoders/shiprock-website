@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="805d96af-0812-4f74-b9d6-522bb25bdf6c" name="shiprock-website" url="http://192.241.155.6">
+        <fileTransfer host="192.241.155.6" port="22" rootFolder="/usr/share/nginx/html/shschieftains" accessType="SFTP" password="dfd9dfc2df9bdfdadfd8df9adfc9dfc1" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

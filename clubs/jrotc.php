@@ -6,10 +6,9 @@
 </head>
 <body>
 
-
 <section class="rotcmodule parallax parallax">
     <div class="container fadeInDown animated">
-        <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+        <div class="col-md-offset-1 col-md-10 col-md-offset-1">
             <h1 class="jrotc">Junior Reserve Officer Training Corps</h1>
             <p class="jrotc1">
                 Junior Reserve Officer Training Corps, or JROTC, is where students are able to experience what it would be like
@@ -39,11 +38,10 @@
                 <p class="rotcp">
                     Drill team is where the students, practice drills throughout the month with physical training at least once a week.
                     Depending on their performance throughout the month, students can go to drill meets where they perform in a competition.
-                    Everyone is dress in their blue uniform, color guard begins first, followed by the male drill team, then the female
+                    Everyone is dress in a uniform called 'blues', color guard begins first, followed by the male drill team, then the female
                     armed drill team, all are inspected by the instructor including weapons, and ends the meet with physical training.
-                    Every Wednesday students dress up in uniform, and is inspected by a person chosen by Sgt. Major. During inspection
-                    the person inspecting can are the person they are inspecting a question about the U.S. Army, while they also tell
-                    the person they are inspecting what mistakes they have made with their uniforms.
+                    Every Wednesday students dress up in uniform, and is inspected by a person chosen by Sgt. Major during inspection
+                    the inspector may ask questions about the U.S. Army.
                 </p>
     </div>
 
@@ -61,16 +59,14 @@
     </div>
 
     <div class="container">
-
             <h3 class="rotch3">Comments About JROTC</h3>
             <p class="rotcp2">
                 "It's really fun we travel a lot if your a primary. It keeps you in shape and yeah join to get some experience tell
                 other people about it."
             </p>
             <p class="rotcp1">
-                Says Tyris Newton, a corporal on JROTC Drill Team.
+                says Tyris Newton, a corporal on JROTC Drill Team.
             </p>
-
     </div>
 </div>
 

@@ -11,8 +11,7 @@
         <div class="col-md-offset-1 col-md-10 col-md-offset-1">
             <h1 class="jrotc">Junior Reserve Officer Training Corps</h1>
             <p class="jrotc1">
-                Junior Reserve Officer Training Corps, or JROTC, is where students are able to experience what it would be like
-                if they plan join the military
+                JROTC
             </p>
         </div>
     </div>
@@ -30,6 +29,18 @@
         </div>
         <div class="col-md-offset-1 col-md-5">
             <img class="sgt" src="https://static.wixstatic.com/media/44891a_be7ffedb7d2746f083e19ecfa24aea84.jpg/v1/fill/w_138,h_171,al_c,q_80,usm_0.66_1.00_0.01/44891a_be7ffedb7d2746f083e19ecfa24aea84.jpg">
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="col-md-6">
+            <h3 class="rotch3">MASTER GUNNERY SERGEANT HARRIS</h3>
+            <p class="rotcp">
+                Bio area for Master Gunnery
+            </p>
+        </div>
+        <div class="col-md-offset-1 col-md-5">
+            <p>Picture area for Master Gunnery</p>
         </div>
     </div>
 
@@ -52,8 +63,8 @@
                     are mostly you being chosen, like drill meets. Drill meets, is based on performance which lets Sgt. Major decided
                     on the team he takes to these meets. Volunteer work is held throughout the year, which is where students help the
                     community, one of these were toys for tots, and cleaning up. Mandatory events is the parade, the Marine Corps Birthday,
-                    the Marine Corps ball, feild meets, and awards night. A run called the motto run is where the entire company runs a
-                    long distance from the school towards Dine College, towards the back of Career Prep and back to where they started
+                    the Marine Corps ball, field meets, and awards night. A run called the motto run is where the entire company runs a
+                    long distance from the SHS school towards Dine College, around back behind Career Prep and back to where they started
                     entering from the exit they had left. A hard physical training called the CFT, which is Combat Fitness Test.
                 </p>
     </div>

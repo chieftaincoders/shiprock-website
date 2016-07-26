@@ -1,4 +1,153 @@
 
+/*BAND PAGE*/
+.bandmodule{
+    background-color: #d9edfd;
+}
+.bandbackground{
+    background-color: #12212f;
+    color: #ffffff;
+}
+.bandcomment{
+    margin-bottom: 25px;
+}
+.band{
+    text-align: center;
+    margin-top: 90px;
+}
+.bandp{
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+.bandp1{
+    font-family: 'Aguafina Script', cursive;
+    text-align: center;
+    margin-bottom: 90px;
+    font-size: 28px;
+}
+.bandp2{
+    font-family: 'Kaushan Script', cursive;
+}
+.bandp3{
+    font-size: 17px;
+
+}
+.bandh3{
+    padding-top: 40px;
+}
+.banddate1{
+    margin-bottom: 100px;
+}
+.bandevent1{
+    margin-bottom: 100px;
+}
+.banddescription1{
+     margin-bottom: 100px;
+ }
+
+
+
+
+
+
+/*!*CHESS CLUB PAGE*!*/
+/*.chessmodule{*/
+    /*background-color: #d9edfd;*/
+    /*text-align: center;*/
+    /*padding-top: 90px;*/
+/*}*/
+/*.chessbackground{*/
+    /*background-color: #12212f;*/
+    /*color: white;*/
+/*}*/
+/*.chessp1{*/
+    /*font-size: 22px;*/
+    /*margin-bottom: 90px;*/
+/*}*/
+/*.cheerp{*/
+    /*font-size: 17px;*/
+/*}*/
+
+
+
+/*CHEERLEADING PAGE*/
+.cheermodule{
+    text-align: center;
+    background-color: #d9edfd;
+    padding-top: 90px;
+}
+.cheerbackground{
+    background-color: #12221f;
+    color: #ffffff;
+}
+.cheerp{
+    font-size: 22px;
+    padding-bottom: 90px;
+}
+.cheerp1{
+    font-size: 17px;
+}
+.cheerh3{
+
+}
+
+
+/*COUNCIL CLUB*/
+.councilmodule{
+    background-color: #d9edfd;
+}
+.councilh1{
+    text-align: center;
+    padding-top: 90px;
+}
+.councilp1{
+    text-align: center;
+    padding-bottom: 90px;
+    font-size: 22px;
+}
+.councilbackground{
+    background-color: #12212F;
+    color: white;
+}
+
+
+/*DRAMA CLUB*/
+.dramamodule{
+    background-color: #d9edfd;
+}
+.dramah1{
+    text-align: center;
+    padding-top: 90px;
+}
+.dramap1{
+    text-align: center;
+    padding-bottom: 90px;
+    font-size: 22px;
+}
+.dramabackground{
+    background-color: #12212f;
+    color: #ffffff;
+}
+
+
+
+/*FFA PAGE*/
+.ffamodule{
+    text-align: center;
+    padding-top: 90px;
+    background-color: #d9edfd;
+}
+.ffap{
+    text-align: center;
+    padding-bottom: 90px;
+    font-size: 22px;
+}
+.ffabackground{
+    background-color: #12212F;
+    color: #ffffff;
+}
+
+
+
 /*ROTC PAGE*/
 .sgt{
     border: solid black 10px;
@@ -7,13 +156,13 @@
 }
 .jrotc{
     text-align: center;
-    margin-top: 75px;
+    margin-top: 90px;
     margin-bottom: 30px;
 }
 .jrotc1{
     text-align: center;
-    margin-bottom: 75px;
-    font-size: 17px;
+    margin-bottom: 90px;
+    font-size: 22px;
 }
 .rotcp{
     margin-bottom: 5px;
@@ -36,39 +185,32 @@
     margin-bottom: 20px;
 }
 .rotcmodule{
-    margin-top: 25px;
-    background-color: white;
+    padding-top: 25px;
+    background-color: #d9edfd;
 }
 .rotcbackground{
     background-color: #12212f;
 }
 
-/*BAND PAGE*/
-.band{
+
+
+/*NHS PAGE*/
+.nhsmodule{
+    background-color: #d9edfd;
+}
+.nhsh1{
     text-align: center;
-    margin-top: 75px;
+    padding-top: 90px;
 }
-.bandp{
-    font-size: 17px;
-    margin-bottom: 50px;
-}
-.bandp1{
-    font-family: 'Aguafina Script', cursive;
+.nhsp1{
     text-align: center;
-    margin-bottom: 75px;
-    font-size: 28px;
+    padding-bottom: 90px;
+    font-size: 22px;
 }
-.bandp2{
-    font-family: 'Kaushan Script', cursive;
-}
-.bandbackground{
-   background-color: #12212f;
-    color: #ffffff;
-}
-.bandh3{
-    padding-top: 40px;
+.nhsbackground{
+    background-color: #12212f;
+    color: white;
 }
 
 
 
-/*FFA PAGE*/

@@ -17,15 +17,16 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">Link<span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#">Link</a></li>
-                    <li><a href="#" target="_blank">
+                    <li><a href="#">Athletics<span class="sr-only">(current)</span></a></li>
+                    <li><a href="#">Clubs</a></li>
+                    <li><a href="#">Schedules</a></li>
+                    <li><a href="#">Resources</a></li>
+                    <li><a href="#">Departments</a></li>
+                    <li><a href="https://www.facebook.com/pages/Shiprock-High-School-Home-of-the-Fighting-Chieftains/275906895838322" target="_blank">
                             <i class="fa fa-facebook" aria-hidden="true"></i>
                         </a></li>
                     <li><a href="#" target="_blank">
-                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
                         </a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->

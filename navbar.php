@@ -9,9 +9,6 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#" id="brand">
-                    <img src="lib/images/shsLogo3.png"
-                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -20,6 +17,9 @@
                     <li><a href="#">Athletics<span class="sr-only">(current)</span></a></li>
                     <li><a href="#">Clubs</a></li>
                     <li><a href="#">Schedules</a></li>
+                    <li><a class="navbar-brand" href="#" id="brand">
+                        <img src="lib/images/shsLogo3.png"
+                    </a></li>
                     <li><a href="#">Resources</a></li>
                     <li><a href="#">Departments</a></li>
                     <li><a href="https://www.facebook.com/pages/Shiprock-High-School-Home-of-the-Fighting-Chieftains/275906895838322" target="_blank">
@@ -27,7 +27,7 @@
                         </a></li>
                     <li><a href="#" target="_blank">
                             <i class="fa fa-twitter" aria-hidden="true"></i>
-                        </a></li>
+                        </a></li>s
                 </ul>
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->

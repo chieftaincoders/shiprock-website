@@ -17,6 +17,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
         integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
+<!--For The Clubs Pages-->
 <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+
+<link href='https://fonts.googleapis.com/css?family=Aguafina+Script' rel='stylesheet' type='text/css'>
 
 <link  rel="stylesheet" type="text/css" href="lib/css/style.css">

@@ -22,6 +22,7 @@
 
 <link href='https://fonts.googleapis.com/css?family=Aguafina+Script' rel='stylesheet' type='text/css'>
 
+<link rel="short icon" href="/lib/images/shslogo4%20.ico"/>
+
 <link  rel="stylesheet" type="text/css" href="lib/css/style.css">
 
-<link rel="short icon" href="lib/images/shslogo4.ico"/>

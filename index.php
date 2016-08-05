@@ -4,10 +4,12 @@
 
     <?php require_once("navbar.php"); ?>
     <?php require_once("lib/head-utils.php"); ?>
+    <?php require_once("lib/head-utils3.php"); ?>
 
-    <link rel="short icon" href="lib/images/shslogo4.ico"/>
+    <link rel="short icon" href="/lib/images/shslogo4%20.ico"/>
 
 </head>
+
 <body>
 
 <div class="hero">
@@ -17,10 +19,6 @@
             <h2>once a chieftain always a chieftain</h2>
         </div>
 </div>
-
-
-
-
 
 
 <div class="light-bg">

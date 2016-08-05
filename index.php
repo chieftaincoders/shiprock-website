@@ -1,9 +1,12 @@
-U<!DOCTYPE html>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 <head>
 
-    <?php require_once("navbar.php") ?>
-    <?php require_once("lib/head-utils.php") ?>
+    <?php require_once("navbar.php"); ?>
+    <?php require_once("lib/head-utils.php"); ?>
+
+    <link rel="short icon" href="lib/images/shslogo4.ico"/>
+
 </head>
 <body>
 
@@ -13,7 +16,6 @@ U<!DOCTYPE html>
             <h1>Shiprock High School</h1>
             <h2>once a chieftain always a chieftain</h2>
         </div>
-    </div>
 </div>
 
 

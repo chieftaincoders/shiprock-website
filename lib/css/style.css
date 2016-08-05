@@ -329,3 +329,12 @@ li a {
 }
 /*CLUBS*/
 
+
+/*DEPARTMENTS PAGE*/
+.jumbotron {
+    height: 80vh;
+    text-align: center;
+    text-transform: uppercase;
+    text-space: 1em;
+    font-family: ;
+}

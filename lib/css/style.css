@@ -99,7 +99,7 @@ li a {
 
 
 
-/*CLUBS*/
+/*Electives*/
 
 /*BAND PAGE*/
 .bandmodule{
@@ -148,91 +148,6 @@ li a {
 }
 
 
-
-
-
-
-/*!*CHESS CLUB PAGE*!*/
-/*.chessmodule{*/
-/*background-color: #d9edfd;*/
-/*text-align: center;*/
-/*padding-top: 90px;*/
-/*}*/
-/*.chessbackground{*/
-/*background-color: #12212f;*/
-/*color: white;*/
-/*}*/
-/*.chessp1{*/
-/*font-size: 22px;*/
-/*margin-bottom: 90px;*/
-/*}*/
-/*.cheerp{*/
-/*font-size: 17px;*/
-/*}*/
-
-
-
-/*CHEERLEADING PAGE*/
-.cheermodule{
-    text-align: center;
-    background-color: #d9edfd;
-    padding-top: 90px;
-}
-.cheerbackground{
-    background-color: #12221f;
-    color: #ffffff;
-}
-.cheerp{
-    font-size: 22px;
-    padding-bottom: 90px;
-}
-.cheerp1{
-    font-size: 17px;
-}
-.cheerh3{
-
-}
-
-
-/*COUNCIL CLUB*/
-.councilmodule{
-    background-color: #d9edfd;
-}
-.councilh1{
-    text-align: center;
-    padding-top: 90px;
-}
-.councilp1{
-    text-align: center;
-    padding-bottom: 90px;
-    font-size: 22px;
-}
-.councilbackground{
-    background-color: #12212F;
-    color: white;
-}
-
-
-/*DRAMA CLUB*/
-.dramamodule{
-    background-color: #d9edfd;
-}
-.dramah1{
-    text-align: center;
-    padding-top: 90px;
-}
-.dramap1{
-    text-align: center;
-    padding-bottom: 90px;
-    font-size: 22px;
-}
-.dramabackground{
-    background-color: #12212f;
-    color: #ffffff;
-}
-
-
-
 /*FFA PAGE*/
 .ffamodule{
     text-align: center;
@@ -259,8 +174,6 @@ li a {
 .ffah3{
     padding-top: 50px;
 }
-
-
 
 
 /*ROTC PAGE*/
@@ -307,33 +220,78 @@ li a {
 .rotcbackground{
     background-color: #12212f;
 }
+/*Electives*/
 
+/*Clubs*/
 
-
-/*NHS PAGE*/
-.nhsmodule{
-    background-color: #d9edfd;
-}
-.nhsh1{
-    text-align: center;
-    padding-top: 90px;
-}
-.nhsp1{
-    text-align: center;
-    padding-bottom: 90px;
-    font-size: 22px;
-}
-.nhsbackground{
+.clubsbackground{
     background-color: #12212f;
     color: white;
 }
-/*CLUBS*/
+.clubs{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 75px;
+}
+h3{
+    margin-top: 100px;
+}
+p{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+
+/*Cheerleading*/
+
+/*chess*/
+
+/*drama*/
+
+/*nhs*/
+
+/*riot squad*/
+
+/*student council*/
+
+/*Clubs*/
 
 
+<<<<<<< Updated upstream
 /*DEPARTMENTS PAGE*/
 .jumbotron {
     height: 80vh;
     text-align: center;
     text-transform: uppercase;
     text-space: 1em;
+=======
+/*SCHEDULE*/
+#schedule{
+    margin-top: 130px;
+    text-align: center;
+
+}
+#schedulepics{
+    marg
+    width: 500px;
+    height: auto;
+    border: solid black 5px;
+    margin-bottom: 25px;
+}
+#regmon{
+    margin-left: 60px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+#bell{
+    text-align: center;
+    margin-top: 100px;
+}
+.district{
+    text-align: center;
+}
+.monthly{
+    text-align: center;
+>>>>>>> Stashed changes
 }

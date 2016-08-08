@@ -54,7 +54,7 @@
         </p>
 
 
-        <h3 class="bandh3">Schedules</h3>
+        <h3 class="bandh3">Schedule</h3>
         <p class="bandp">
 
         </p>

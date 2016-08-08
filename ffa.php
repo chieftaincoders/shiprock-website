@@ -18,7 +18,7 @@
 
 <div class="ffabackground">
     <div class="container">
-        <h3 class="ffah3">Vickie Lake</h3>
+        <h3 class="ffah3">Vickie Lake, </h3>
         <p class="ffap1">
 
         </p>
@@ -26,9 +26,11 @@
 
         <h3 class="ffah3">Future Farmers of America</h3>
         <p class="ffap1">
-            In FFA you are pushed to try fun activities the relate to agriculture snd last throughout the school year. You travel to conventions,
-            which have animal shows, and allows you interact with more FFA members and the community. The goal of FFA is to make a community that
-            is great for everyone, and buildup knowledge about the environment around you with you enjoying it at the same time.
+            FFA pushes you to learn about the enviroment, and agricultural uses. FFA Members compete against school around the
+            district, and some out of State. The competitions are based around agriculture questions and scenarios, mixed with math
+            questions, and questions about the subject. Members travel for the competitions or conventions, where they get the chance
+            to meet other FFA members. FFA is creating a better community for all of the inhabitants, and teaches about agricultural
+            uses.
          </p>
 
         <h3 class="ffah3"></h3>

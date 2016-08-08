@@ -10,7 +10,7 @@
 <section class="rotcmodule parallax parallax">
     <div class="container fadeInDown animated">
         <div class="col-md-offset-1 col-md-10 col-md-offset-1">
-            <h1 class="jrotc">Junior Reserve Officer Training Corps</h1>
+            <h1 class="jrotc">Marine Junior Reserve Officer Training Corps</h1>
             <p class="jrotc1">
                 JROTC
             </p>

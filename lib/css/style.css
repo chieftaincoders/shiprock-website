@@ -128,32 +128,6 @@ li a {
 }
 
 
-/*FFA PAGE*/
-.ffamodule{
-    text-align: center;
-    padding-top: 90px;
-    background-color: #d9edfd;
-    margin-top: 75px;
-}
-.ffap{
-    text-align: center;
-    padding-bottom: 90px;
-    font-size: 22px;
-}
-.ffabackground{
-    background-color: #12212F;
-    color: #ffffff;
-}
-.ffap1{
-    font-size: 17px;
-    margin-bottom: 90px;
-}
-.ffap2{
-    font-family: 'Kaushan Script', cursive;
-}
-.ffah3{
-    padding-top: 50px;
-}
 
 
 /*ROTC PAGE*/
@@ -210,13 +184,13 @@ li a {
 }
 .clubs{
     text-align: center;
-    margin-top: 150px;
-    margin-bottom: 75px;
+    margin-top: 195px;
+    margin-bottom: 120px;
 }
-h3{
+.clubsh3{
     margin-top: 100px;
 }
-p{
+.clubsp{
     font-size: 20px;
     margin-top: 20px;
     margin-left: 25px;
@@ -229,6 +203,8 @@ p{
 
 /*drama*/
 
+/*FFA*/
+
 /*nhs*/
 
 /*riot squad*/
@@ -238,6 +214,37 @@ p{
 /*Clubs*/
 
 
+
+/*SCHEDULE*/
+#schedule{
+    margin-top: 130px;
+    text-align: center;
+
+}
+.schedbackground{
+    background-color: #12212f;
+    color: white;
+}
+#schedulepics{
+    width: 500px;
+    height: auto;
+    border: solid black 5px;
+    margin-bottom: 25px;
+}
+#regmon{
+    margin-left: 50px;
+    font-size: 25px;
+}
+#bell{
+    text-align: center;
+}
+.district{
+    text-align: center;
+}
+.monthly{
+    text-align: center;
+}
+
 <<<<<<< Updated upstream
 /*DEPARTMENTS PAGE*/
 .jumbotron {
@@ -246,32 +253,5 @@ p{
     text-transform: uppercase;
     text-space: 1em;
 =======
-/*SCHEDULE*/
-#schedule{
-    margin-top: 130px;
-    text-align: center;
 
-}
-#schedulepics{
-    marg
-    width: 500px;
-    height: auto;
-    border: solid black 5px;
-    margin-bottom: 25px;
-}
-#regmon{
-    margin-left: 60px;
-    padding-top: 50px;
-    font-size: 25px;
-}
-#bell{
-    text-align: center;
-    margin-top: 100px;
-}
-.district{
-    text-align: center;
-}
-.monthly{
-    text-align: center;
->>>>>>> Stashed changes
-}
+

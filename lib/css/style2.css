@@ -94,3 +94,15 @@ li a {
 .navbar-right {
     color: white;
 }
+
+.mainImage {
+     background: url(lib/images/savedpicture.jpg) no-repeat center center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     height: 90vh;
+     padding: 10%;
+     text-align: center;
+     color: white;
+ }

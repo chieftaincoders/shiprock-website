@@ -2,11 +2,18 @@
 <html lang="en">
 <head>
 
-    <?php require_once("lib/head-utils.php")?>
+    <?php require_once("lib/head-utils.php") ?>
     <?php require_once("navbar.php")?>
 </head>
 <body>
-<h1 id="schedule">Schedules</h1>
+
+<section class="schedmod">
+    <div class="container fadeInDown animated">
+        <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+            <h1 id="schedule">Schedules</h1>
+        </div>
+    </div>
+</section>
 
 
  <div class="schedbackground">
@@ -34,13 +41,6 @@
                 </div>
 
         <h2 class="district">District Calendar</h2>
-
-
-
-
-
-
-
 
         <h2 class="monthly">Monthly School Calendar</h2>
 

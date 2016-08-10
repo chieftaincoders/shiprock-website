@@ -7,39 +7,15 @@
 </head>
 <body>
 
-<div class="jumbotron">
-    <h1><i class="fa fa-camera-retro" aria-hidden="true"></i> Marissa's Gallery of Sharks</h1>
-    <p>Breathtaking pictures of sharks guaranteed to make you cringe or cry.</p>
-</div>
+<section id="banner" style="background-image: url(http://images.humaan.com.au/epic/about-banner.jpg);">
 
-<div class="container col-md-12">
-    <div class="row">
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-        <div class="col-md-2 col-xs-6">
-            <img src="lib/images/shslogo42.png" class="img-responsive img-circle center-block">
-            <span class="caption">Please work</span>
-        </div>
-    </div>
-</div>
+    <h1>We're only Humaan</h1>
+
+    <h2>We're a team of makers, thinkers, explorers, creators and theatre singers. <br>We're serious about delivering great outcomes.</h2>
+
+
+
+</section>
 
 
 </body>

@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 <head>
-
-    <?php require_once("navbar.php"); ?>
     <?php require_once("lib/head-utils.php"); ?>
-    <?php require_once("lib/head-utils3.php"); ?>
-
     <link rel="short icon" href="lib/images/shslogo4.ico"/>
-
 </head>
 
 <body>
+
+<?php require_once("navbar.php"); ?>
 
 <div class="hero">
         <img src="lib/images/shsPic.jpg" alt=""  />

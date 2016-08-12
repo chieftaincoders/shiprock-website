@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/html">
 <head>
+<<<<<<< Updated upstream
     <?php require_once("lib/head-utils.php"); ?>
     <link rel="short icon" href="lib/images/shslogo4.ico"/>
+=======
+    <?php require_once("lib/head-utils.php") ?>
+    <?php require_once("navbar.php") ?>
+
+>>>>>>> Stashed changes
 </head>
-
 <body>
+<div class="jumbotron">
 
+<<<<<<< Updated upstream
 <?php require_once("navbar.php"); ?>
 
 <div class="hero">
@@ -23,8 +30,14 @@
 </div>
 
 <div id="tweets">
+=======
+>>>>>>> Stashed changes
 </div>
 
+  <div class="row col-md-3 twitterArea">
+    <div id="tweets">
+    </div>
+  </div>
 
 
 

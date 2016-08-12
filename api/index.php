@@ -12,7 +12,7 @@ $connection = new TwitterOAuth(
 );
 
 $twitter_path = 'search/tweets';
-$tweets = $connection->get($twitter_path, ["q" => "@SHSChieftains"]);
+$tweets = $connection->get($twitter_path, ["q" => "@SHSChieftains", "count" => "2"]);
 header("Content-type: application/json");
 
 $simple_statuses = [];

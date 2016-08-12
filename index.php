@@ -16,6 +16,22 @@
 <<<<<<< Updated upstream
 <?php require_once("navbar.php"); ?>
 
+<div class="homepage-hero-module">
+  <div class="video-container">
+    <h1>Full Screen Video Landing Page</h1>
+    <div class="filter"></div>
+        <video autoplay loop class="fillWidth">
+            <source src="lib/videos/pickingNavajoTea.mp4" type="video/mp4" />Your browser does not support the video tag. I suggest you upgrade your browser.
+            <source src="lib/videos/pickingNavajoTea.mp4" type="video/webm" />Your browser does not support the video tag. I suggest you upgrade your browser.
+        </video>
+        <div class="poster hidden">
+            <img src="" alt="">
+        </div> <!-- poster hidden -->
+    </div> <!-- end of video-container -->
+</div> <!-- end of homepage-hero-module -->
+
+<div class="text-content">
+
 <div class="hero">
         <img src="lib/images/shsPic.jpg" alt=""  />
         <div class="light-bg1">

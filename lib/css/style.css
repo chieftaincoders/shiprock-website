@@ -76,11 +76,6 @@ li a {
 
 
 
-
-
-
-/*Electives*/
-
 /*BAND PAGE*/
 .bandmodule{
     background-color: #d9edfd;
@@ -174,35 +169,12 @@ li a {
 .rotcbackground{
     background-color: #12212f;
 }
-/*Electives*/
+.rotcpic{
+    height:
+}
+
 
 /*Clubs*/
-
-.clubsbackground{
-    background-color: #12212f;
-    color: white;
-}
-.clubsmod{
-    background-color: #d9edfd;
-
-}
-.clubs{
-    text-align: center;
-    margin-top: 195px;
-    margin-bottom: 120px;
-}
-.clubsh3{
-    margin-top: 100px;
-}
-.clubsp{
-    font-size: 20px;
-    margin-top: 20px;
-    margin-left: 25px;
-    margin-bottom: 50px;
-}
-.clubsp1{
-    margin-bottom: 75px;
-}
 
 
 /*SCHEDULE*/

@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="index.php" id="brand">
-                <img src="lib/images/shslogo4.png"
+                <img src="clubs/lib/images/shslogo4.png"
             </a>
         </div>
 

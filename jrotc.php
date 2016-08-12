@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <?php require_once("lib/head-utils.php")?>
+    <?php require_once("lib/head-utils.php") ?>
     <?php require_once("navbar.php")?>
 </head>
 <body>
@@ -51,6 +51,12 @@
                     coed marksmanship and physical fitness teams.
                 </p>
     </div>
+
+        <div class="container">
+            <div class="col-md-offset-2 col-md-10">
+                <img class="rotcpic" src="lib/images/rotc.png">
+            </div>
+        </div>
 
     <div class="container">
             <h3 class="rotch3"></h3>

@@ -41,10 +41,9 @@
                 </div>
 
         <h2 class="district">District Calendar</h2>
-            <div class="col-md-offset-3 col-md-9">
+            <div class="col-md-offset-3">
                 <img src="lib/images/academiccalendar.png">
             </div>
-
 
         <h2 class="monthly">Monthly School Calendar</h2>
 

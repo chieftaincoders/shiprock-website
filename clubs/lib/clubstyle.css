@@ -1,0 +1,154 @@
+/*FFA*/
+.ffa{
+    text-align: center;
+    margin-top: 150px;
+}
+.ffah3{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.ffamod{
+    background-color: #d9edfd;
+}
+.ffabackground{
+    background-color: #12212f;
+    color: white;
+}
+.FFA{
+    margin-top: 50px;
+}
+.ffadescription{
+    font-size: 18px;
+    margin-top: 15px;
+}
+.ffacomments1{
+    margin-top: 50px;
+}
+.ffacomments{
+    font-size: 18px;
+    font-family: 'Kaushan Script', cursive;
+    margin-top: 25px;
+}
+.ffanames{
+    text-align: right;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+/*Student Council*/
+.coun{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.counmod{
+    background-color: #d9edfd;
+}
+.counbackground{
+    background-color: #12212f;
+    color: white;
+}
+.stude{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+
+    /*CHEERLEADING*/
+.cheer{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.cheermod{
+    background-color: #d9edfd;
+}
+.cheerbackground{
+    background-color: #12212f;
+    color: white;
+}
+.rioth3{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.cheerh3{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.riotp{
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+.cheerp{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+
+    /*CHESS*/
+.chessmod{
+    background-color: #d9edfd;
+}
+.chess{
+    margin-top: 150px;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.chessbackground{
+    background-color: #12212F;
+    color: white;
+}
+.chessh3{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.chessp{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+    /*NATIONAL HONORS SOCIETY*/
+.nhs{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.nhsh3{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.nhsp{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.nhsbackground{
+    background-color: #12212f;
+    color: white;
+}
+.nhsmod{
+    background-color: #d9edfd;
+}
+
+    /*Drama Club*/
+.dramamod{
+    background-color: #d9edfd;
+}
+.drama{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.dramabackground{
+    background-color: #12212f;
+    color: white;
+}
+.dramap{
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+.dramah3{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
